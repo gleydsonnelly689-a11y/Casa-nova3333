@@ -1,13 +1,12 @@
-CASA NOVA DISTRIBUIDORA — SITE
+CASA NOVA DISTRIBUIDORA - SITE
 
-Versão com catálogo de materiais e nova área de Máquinas & Equipamentos para locação ou compra.
+Páginas principais:
+- index.html: página inicial
+- loja.html: varejo / produtos e carrinho
+- maquinas.html: aluguel ou compra de máquinas
+- atacado.html: atendimento PJ / parcerias / atacado
+- empresa.html: dados e apresentação da empresa
+- contato.html: contato
+- politica.html: privacidade
 
-Página inicial: index.html
-Catálogo: catalogo.html
-Máquinas: maquinas.html
-Empresa: empresa.html
-Lojistas: parceiros.html
-Contato: contato.html
-
-O site é estático e pode ser publicado gratuitamente no GitHub Pages ou Netlify.
-Formulários e cotações direcionam o atendimento para o WhatsApp comercial.
+Para publicar no GitHub Pages, envie todos os arquivos e pastas para a raiz do repositório e configure Pages para a branch main / root.
