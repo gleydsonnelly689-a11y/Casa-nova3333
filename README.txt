@@ -10,3 +10,11 @@ Páginas principais:
 - politica.html: privacidade
 
 Para publicar no GitHub Pages, envie todos os arquivos e pastas para a raiz do repositório e configure Pages para a branch main / root.
+
+
+SISTEMA DE CONTAS (V5)
+- login.html: entrada de clientes
+- cadastro.html: cadastro PF/PJ
+- conta.html: painel do cliente
+- account.js: demonstração funcional usando armazenamento local do navegador e hash SHA-256
+ATENÇÃO: para uso com clientes reais, substitua a autenticação local por backend/banco de dados seguro (ex.: Supabase/Firebase ou API própria).
